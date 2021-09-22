@@ -20,7 +20,7 @@ learned the following:
 - Importing and using static files
 - The concept of views (ie. routes) and using HTML templates to render them.
 - Testing in Django
-- The built-in Admin interface and how to customize it.
+- The built-in Admin interface and how to customize/override it.
 
 Obviously, the above list is just the tip of the iceberg in regards to the
 Django ecosystem. After finishing this tutorial my next task will be to practice
